@@ -2,8 +2,9 @@ Hello, my name is Matheus Gardin, I'm 17 years old. I am a full stack developer 
 
 Here are some ideas to get you started:
 
-- I'm developing a project in PHP
-- I’m currently learning Node.js
-- I'm looking to collaborate on projects with any of these technologies: PHP, Laravel or Node
-- Ask me about PHP and Laravel
+- Technologies learned: PHP, Laravel, Bootstrap, Javascrip (Basic), Node.js (under development).
+- I'm developing a project in PHP.
+- I’m currently learning Node.js.
+- I'm looking to collaborate on projects with any of these technologies: PHP, Laravel or Node.
+- Ask me about PHP and Laravel.
 - How to reach me: My LinkedIn Profile: 
