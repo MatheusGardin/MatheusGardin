@@ -1,4 +1,4 @@
-Hello, my name is Matheus Gardin, I'm 18 years old. I am a full stack developer with great appreciation for backend programming, I am in a very short time in this area but I found a passion in it. I love to program and I feel more and more stimulated to acquire knowledge and experience in this area that is so dear to me. Despite my little experience I am willing to help in the best possible way.
+Hello, I am a full stack developer with great appreciation for backend programming. I love to program and I feel more and more stimulated to acquire knowledge and experience in this area that is so dear to me. I am willing to help in the best possible way.
 
 **Brazilian
 
