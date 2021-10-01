@@ -2,8 +2,7 @@ Hello, I am a full stack developer with great appreciation for backend programmi
 
 **Brazilian
 
-- Technologies learned: PHP, Laravel, Yii, Bootstrap, Javascrip, Node.js.
-- I'm developing a project in PHP(Laravel) and Javascript. But I've also been doing little personal projects.
-- I'm looking to collaborate on projects with any of these technologies: PHP, Laravel, Javascript or Node.
+- PHP, Laravel, Yii, Bootstrap, Javascrip, Node.js, DHTMLX, SQL, MongoDB, MySQL.
+- I'm looking to collaborate on projects with any of these technologies: PHP, Javascript.
 - Ask me about PHP and Laravel.
 - How to reach me: My LinkedIn Profile: linkedin.com/in/matheus-gardin-821b131a5
